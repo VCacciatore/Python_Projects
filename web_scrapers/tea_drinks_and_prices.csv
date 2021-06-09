@@ -1,0 +1,178 @@
+,name,price,size
+0,Hot Cinnamon Spice,56.95,680
+1,Hot Cinnamon Spice,20.99,277
+2,Hot Cinnamon Spice,12.95,308
+3,Hot Cinnamon Spice,11.50,218
+4,Hot Cinnamon Spice,9.00,277
+5,Hot Cinnamon Spice,4.00,136
+6,Hot Cinnamon Spice,12.00,295
+7,Hot Cinnamon Spice,6.50,86
+8,Hot Cinnamon Spice,28.00,562
+9,Hot Cinnamon Spice,14.00,404
+10,Hot Cinnamon Spice,9.50,281
+11,Hot Cinnamon Spice,3.00,27
+12,Paris,20.99,277
+13,Paris,9.00,277
+14,Paris,11.50,218
+15,Paris,12.00,295
+16,Paris,28.00,562
+17,Paris,15.00,404
+18,Paris,9.50,281
+19,Paris,3.00,27
+20,Paris,56.95,680
+21,Earl Grey Supreme,20.99,277
+22,Earl Grey Supreme,11.50,218
+23,Earl Grey Supreme,9.00,277
+24,Earl Grey Supreme,28.00,562
+25,Earl Grey Supreme,15.00,404
+26,Earl Grey Supreme,9.50,281
+27,Earl Grey Supreme,3.00,27
+28,Earl Grey Supreme,56.95,680
+29,Victorian London Fog,20.99,272
+30,Victorian London Fog,12.95,308
+31,Victorian London Fog,28.00,567
+32,Victorian London Fog,9.50,272
+33,Victorian London Fog,3.00,27
+34,Victorian London Fog,56.95,680
+35,English Breakfast,20.99,277
+36,English Breakfast,9.00,277
+37,English Breakfast,12.00,295
+38,English Breakfast,6.50,181
+39,English Breakfast,25.00,562
+40,English Breakfast,15.00,426
+41,English Breakfast,9.00,281
+42,English Breakfast,3.00,27
+43,English Breakfast,56.95,680
+44,Irish Breakfast,25.00,562
+45,Irish Breakfast,15.00,431
+46,Irish Breakfast,9.00,277
+47,Irish Breakfast,3.00,27
+48,Irish Breakfast,20.99,227
+49,Irish Breakfast,12.00,295
+50,Decaf Hot Cinnamon,17.99,277
+51,Decaf Hot Cinnamon,7.95,277
+52,Decaf Hot Cinnamon,28.00,562
+53,Decaf Hot Cinnamon,9.50,281
+54,Decaf Hot Cinnamon,3.00,27
+55,Decaf Hot Cinnamon,48.95,590
+56,Decaf Hot Cinnamon,12.95,304
+57,Decaf Vanilla Comoro,17.99,154
+58,Decaf Vanilla Comoro,7.95,163
+59,Decaf Vanilla Comoro,4.00,36
+60,Decaf Vanilla Comoro,28.00,562
+61,Decaf Vanilla Comoro,9.50,277
+62,Decaf Vanilla Comoro,3.00,27
+63,Scottish Morn,20.99,154
+64,Scottish Morn,26.00,562
+65,Scottish Morn,9.00,281
+66,Scottish Morn,3.00,27
+67,Black Currant Tea,17.99,277
+68,Black Currant Tea,7.99,277
+69,Black Currant Tea,28.00,562
+70,Black Currant Tea,9.50,281
+71,Black Currant Tea,3.00,27
+72,Black Currant Tea,50.00,1792
+73,Black Currant Tea,21.00,381
+74,Black Currant Tea,9.00,308
+75,Chai,20.99,277
+76,Chai,6.50,181
+77,Chai,28.00,562
+78,Chai,15.00,426
+79,Chai,9.50,281
+80,Chai,3.00,27
+81,Holiday Tea,20.99,277
+82,Holiday Tea,14.95,295
+83,Holiday Tea,8.95,277
+84,Holiday Tea,4.00,136
+85,Holiday Tea,24.00,562
+86,Holiday Tea,9.00,281
+87,Holiday Tea,3.00,27
+88,Decaf Paris,28.00,562
+89,Decaf Paris,9.00,281
+90,Decaf Paris,3.00,27
+91,Tower of London,12.95,308
+92,Tower of London,4.00,36
+93,Tower of London,28.00,562
+94,Tower of London,9.50,281
+95,Tower of London,3.00,27
+96,Decaf Ceylon (Decaf Orange Pekoe),20.99,154
+97,Decaf Ceylon (Decaf Orange Pekoe),11.50,118
+98,Decaf Ceylon (Decaf Orange Pekoe),12.00,118
+99,Decaf Ceylon (Decaf Orange Pekoe),6.50,86
+100,Decaf Ceylon (Decaf Orange Pekoe),25.00,0
+101,Decaf Ceylon (Decaf Orange Pekoe),15.00,431
+102,Decaf Ceylon (Decaf Orange Pekoe),8.00,277
+103,Decaf Ceylon (Decaf Orange Pekoe),3.00,27
+104,Decaf Earl Grey,20.99,295
+105,Decaf Earl Grey,12.00,218
+106,Decaf Earl Grey,28.00,562
+107,Decaf Earl Grey,16.00,404
+108,Decaf Earl Grey,9.50,281
+109,Decaf Earl Grey,2.00,27
+110,Darjeeling,20.99,277
+111,Darjeeling,11.50,218
+112,Darjeeling,9.00,277
+113,Darjeeling,26.00,562
+114,Darjeeling,15.00,426
+115,Darjeeling,9.00,281
+116,Darjeeling,3.00,27
+117,Earl Grey,20.99,277
+118,Earl Grey,28.00,562
+119,Earl Grey,15.00,426
+120,Earl Grey,9.50,281
+121,Earl Grey,3.00,27
+122,Chocolate Mint,17.99,277
+123,Chocolate Mint,7.95,277
+124,Chocolate Mint,28.00,562
+125,Chocolate Mint,9.50,281
+126,Chocolate Mint,3.00,27
+127,Midsummer's Peach (Decaf),20.99,277
+128,Midsummer's Peach (Decaf),24.00,562
+129,Midsummer's Peach (Decaf),9.00,281
+130,Midsummer's Peach (Decaf),3.00,27
+131,Chocolate Tea,24.00,562
+132,Chocolate Tea,7.50,281
+133,Chocolate Tea,13.00,404
+134,Chocolate Tea,3.00,27
+135,Vanilla Black,23.00,562
+136,Vanilla Black,13.50,404
+137,Vanilla Black,8.00,281
+138,Vanilla Black,3.00,27
+139,Organic Assam,11.50,218
+140,Organic Assam,24.00,562
+141,Organic Assam,16.00,426
+142,Organic Assam,8.00,281
+143,Organic Assam,3.00,27
+144,Lapsang Souchong,20.99,277
+145,Lapsang Souchong,22.00,562
+146,Lapsang Souchong,12.00,376
+147,Lapsang Souchong,7.00,295
+148,Lapsang Souchong,3.00,27
+149,Supreme Breakfast,20.99,154
+150,Supreme Breakfast,37.00,562
+151,Supreme Breakfast,12.00,281
+152,Supreme Breakfast,3.00,27
+153,Apricot,20.99,277
+154,Apricot,23.00,562
+155,Apricot,8.00,281
+156,Apricot,3.00,27
+157,Orange Pekoe (Ceylon & India),20.99,277
+158,Orange Pekoe (Ceylon & India),12.00,295
+159,Orange Pekoe (Ceylon & India),6.50,86
+160,Orange Pekoe (Ceylon & India),25.00,562
+161,Orange Pekoe (Ceylon & India),15.00,426
+162,Orange Pekoe (Ceylon & India),8.50,281
+163,Orange Pekoe (Ceylon & India),3.00,27
+164,Peaches & Ginger,17.99,277
+165,Peaches & Ginger,7.95,277
+166,Peaches & Ginger,4.00,127
+167,Peaches & Ginger,23.00,562
+168,Peaches & Ginger,8.00,281
+169,Peaches & Ginger,3.00,27
+170,Cranberry Autumn,20.99,277
+171,Cranberry Autumn,22.00,562
+172,Cranberry Autumn,7.50,281
+173,Cranberry Autumn,3.00,27
+174,Fruits d'Alsace,26.00,562
+175,Fruits d'Alsace,9.00,281
+176,Fruits d'Alsace,3.00,27
