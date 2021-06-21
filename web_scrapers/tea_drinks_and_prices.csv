@@ -1,9 +1,9 @@
-,name,price,size
+,name,price,size in grams
 0,Hot Cinnamon Spice,56.95,680
 1,Hot Cinnamon Spice,20.99,277
 2,Hot Cinnamon Spice,12.95,308
 3,Hot Cinnamon Spice,11.50,218
-4,Hot Cinnamon Spice,9.00,277
+4,Hot Cinnamon Spice,5.50,277
 5,Hot Cinnamon Spice,4.00,136
 6,Hot Cinnamon Spice,12.00,295
 7,Hot Cinnamon Spice,6.50,86
@@ -176,3 +176,82 @@
 174,Fruits d'Alsace,26.00,562
 175,Fruits d'Alsace,9.00,281
 176,Fruits d'Alsace,3.00,27
+177,English Breakfast,4.50,91
+178,English Breakfast,25.00,91
+179,English Breakfast,6.00,91
+180,English Breakfast,10.00,91
+181,English Breakfast,18.50,91
+182,Earl Grey,4.50,91
+183,Earl Grey,25.00,91
+184,Earl Grey,10.00,91
+185,Earl Grey,14.00,91
+186,Earl Grey,18.50,91
+187,English Tea No.1,4.50,91
+188,English Tea No.1,25.00,91
+189,English Tea No.1,10.00,91
+190,English Tea No.1,14.00,91
+191,Chai Spice,4.50,91
+192,Chai Spice,25.00,91
+193,DeCaf Earl Grey,5.00,91
+194,DeCaf Earl Grey,27.00,91
+195,Peach & Passion Fruit,4.50,0
+196,Peach & Passion Fruit,25.00,0
+197,Blackcurrant Burst,4.50,91
+198,Blackcurrant Burst,25.00,91
+199,Mango Magic,4.50,0
+200,Mango Magic,25.00,0
+201,Apricot Sunrise,4.50,91
+202,Apricot Sunrise,25.00,91
+203,Raspberry Indulgence,4.50,0
+204,Raspberry Indulgence,25.00,0
+205,Strawberry Sensation,4.50,0
+206,Strawberry Sensation,25.00,0
+207,Green Tea Pure,4.50,0
+208,Green Tea Pure,25.00,0
+209,Green Tea Pure,6.00,0
+210,Green Tea Pure,69.50,0
+211,Jasmine Romance,4.50,0
+212,Jasmine Romance,25.00,0
+213,Mint Mystique,4.50,0
+214,Mint Mystique,25.00,0
+215,Mint Mystique,10.00,0
+216,Lemon Vitality,4.50,0
+217,Lemon Vitality,25.00,0
+218,Mango & Lychee,4.50,0
+219,Mango & Lychee,25.00,0
+220,"Camomile, Honey & Vanilla",4.50,91
+221,"Camomile, Honey & Vanilla",25.00,91
+222,Camomile & Lemongrass,4.50,91
+223,Camomile & Lemongrass,25.00,91
+224,Lemon & Ginger,4.50,0
+225,Lemon & Ginger,25.00,0
+226,Peppermint & Lemon,4.50,0
+227,Peppermint & Lemon,25.00,0
+228,"Rosehip, Hibiscus & Cherry",4.50,0
+229,"Rosehip, Hibiscus & Cherry",25.00,0
+230,Mixed Berries & Hibiscus,4.50,0
+231,Mixed Berries & Hibiscus,25.00,0
+232,Detox,4.50,91
+233,Detox,25.00,91
+234,"White Peony White Tea,Loose Tea in Pouch80G",12.00,80
+235,Yunnan Golden-Dian Hong Black Tea ，Loose Tea in Pouch200G,12.00,200
+236,Fujian Lapsang Souchong Black Tea，Loose Tea in Pouch200G,12.00,200
+237,Yunan Ripe Pu-Erh Tea，Loose Tea in Pouch200G,12.00,200
+238,Fragrant Anxi Tieh Kwan Yin Oolong Tea Pouch 250G,10.45,250
+239,Taiwan High Camellia Dong Ding Oolong Tea Pouch 150G,30.00,150
+240,Xinyang Mao Jian Green Tea 50G -5% Off for Pre-order,16.80,50
+241,Nanjing Yu Hua（Rainflower Tea）Mini-5%  OFF Pre Order,15.10,50
+242,Anji White-Anji Bai Cha Green Tea 50G,17.70,35
+243,Lu An Gua Pian Melon Seed Green Tea 35G -5% Off for Pre-order,16.80,35
+244,Huangshan Mao Feng Green Tea 35G,17.70,35
+245,Shandong Lao Shan Green Tea 50G - 5% Off for Pre-order,16.80,50
+246,Que She(Sparrow's tougue) Green Tea 50G,16.80,50
+247,Loose Guangxi Jasmine 100G,11.90,100
+248,Loose Premium Jasmine Silver Needle 50G,33.30,50
+249,Loose Premium Jasmine Silver Ring 50G-5% off Pre-order,31.64,50
+250,Loose Sichuan Snop Drop Jasmine 50G,11.90,50
+251,Jasmine Favourites Collection,71.91,150
+252,Jasmine Favourites Collection,71.91,150
+253,Jasmine Favourites Collection,71.91,150
+254,Yunnan Spring Mao Feng Green Tea,15.99,200
+255,Yunnan Spring Mao Feng Green Tea,15.99,200
